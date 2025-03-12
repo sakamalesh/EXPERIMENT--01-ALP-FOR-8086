@@ -110,6 +110,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 ## Result :
+
+Thus, ALP on fundamental arithmetic and logical operations is executed successfully.
  
 
 
